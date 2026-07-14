@@ -1,4 +1,5 @@
- #calculator 
+#mahesh gundagani 
+#calculator 
 a=float(input("enter no :"))
 operator = input("enter + or - / or * or %")
 b =float(input("enter no :"))
